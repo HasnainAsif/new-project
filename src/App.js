@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h3>Digital Ocean Practice Updated</h3>
+        <h3>Digital Ocean Practice Part 2</h3>
       </header>
     </div>
   );
